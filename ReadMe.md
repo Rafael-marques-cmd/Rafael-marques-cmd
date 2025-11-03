@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cursando Ciência da Computação 4/9<br>📚 Iniciando estudos de HTML5, CSS3 e Javascript.<br>
+🔭 Cursando Ciência da Computação 4/9<br>📚 Estudando Front-end JavaScript HTML e CSS.<br>
 
 
 ## 🌐 Socials:
