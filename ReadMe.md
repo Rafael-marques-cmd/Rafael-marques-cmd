@@ -2,7 +2,8 @@
 **`Desenvolvedora Front-End`**
 
 <p align="left"> 
-
+👨‍💻 Estudante de Ciência da Computação com interesse em desenvolvimento front-end.
+Atualmente estudando e evoluindo minhas habilidades na área.
 
 ### 🤖 Linguagens e Tecnologias
 
