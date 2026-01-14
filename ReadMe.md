@@ -1,5 +1,5 @@
 ## Rafael
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 <p align="left"> 
 👨‍💻 Estudante de Ciência da Computação com interesse em desenvolvimento front-end.
