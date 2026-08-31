@@ -110,8 +110,5 @@
 * 🔹 **MongoDB e Mongoose**
 * 🔹 Arquitetura **MVC**
 * 🔹 Integração entre Front-End e Back-End
-* 🔹 Desenvolvimento de software utilizando **IA**
-* 🔹 **Spec-Driven Development (SDD)**
-* 🔹 **Harness Engineering e Loop Engineering**
 
 ###
